@@ -4,8 +4,15 @@
         <description><![CDATA[REIGNTAKEOVER]]></description>
         <link>https://thegrid.ai/reigntakeover/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 09:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 09:07:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reigntakeover/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>TEST 2</p>]]></description>
+            <link>https://thegrid.ai/reigntakeover/6d1121ad-f958-4d23-b93e-d079f3f06162/index.html</link>
+            <guid isPermaLink="false">6d1121ad-f958-4d23-b93e-d079f3f06162</guid>
+            <pubDate>Wed, 02 Mar 2016 09:07:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2ff4e7c-0f0d-4ede-92de-e2d4e9417e25.jpg">]]></description>
